@@ -5,7 +5,7 @@ locale: en_US
 description: What is code? Baby don't bug me...
 logo: site-logo.png
 search: true
-#url: http://localhost:4000
+comments: true
 
 # Jekyll configuration
 
@@ -37,9 +37,9 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Julian Caicedo
-  avatar: bio-photo.jpg
+  avatar: jcaicedo.jpg
   email: juliancaicedod@gmail.com
-  disqus-shortname:
+  disqus-shortname: jcaicedo
   twitter: UnBurroConAlas
   facebook: #username
   github: juliancaicedo
