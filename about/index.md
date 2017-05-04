@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: About
+excerpt: "What is code? Baby don't bug me..."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: 1000.jpg
@@ -9,18 +9,29 @@ image:
   creditlink: https://www.theguardian.com/science/gallery/2016/sep/15/microscopic-world-rps-scientific-imaging-award-2016-in-pictures
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+My name is [**Julian Caicedo**](https://juliancaicedo.github.io/)... yeah, I know, "who the heck is this guy?", right?
 
-## So Simple Theme is all about:
+Well, I'm:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
+* Freelance **Mobile Developer** (*iOS and Android*)
+* Bachelor of **Computer Science** (*from the* <a href="http://www.udea.edu.co" title="Universidad de Antioquia" target="_blank">UdeA</a> *and the* <a href="https://www.informatik.kit.edu/" title="Karlsruhe Institut für Technologie" target="_blank">*KIT*</a>)
+* Enthusiastic about **weird programming languages**
+* '*Hello World*' Maker
+* **Colombian** living in Germany
+* **Trilingual** (*Native spanish, C1 certified german speaker, pretty decent english... well... I think so*)
+* Underwater Rugby Player (yep, it's a <a href="https://en.wikipedia.org/wiki/Underwater_rugby" title="Underwater Rugby" target="_blank">thing</a>)
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+What I am **<u>NOT</u>**:
 
-[^1]: Example: *domain.com/category-name/post-title*
+* The guy who will fix your printer
+* That boring IT dude
+* A bad person
+
+## So, what have you done, anyway?
+
+I'm glad you ask.
+
+* **'17 - present:** &nbsp;&nbsp;&nbsp;iOS Developer (<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
+* **'16 - present:** &nbsp;&nbsp;&nbsp;iOS and Web Developer (<a href="https://www.biotronik.com" title="Biotronik SE & Co. KG" target="_blank">Biotronik</a>)
+* **'15 - '16:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer (<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
+* **'15 - '16:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iOS Developer (<a href="http://www.allcodellc.com/" title="ALL Code" target="_blank">ALLCode LLC</a>)
