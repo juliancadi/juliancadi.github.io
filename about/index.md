@@ -3,10 +3,6 @@ layout: page
 title: About
 excerpt: "What is code? Baby don't bug me..."
 modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: 1000.jpg
-  credit: Spike Walker
-  creditlink: https://www.theguardian.com/science/gallery/2016/sep/15/microscopic-world-rps-scientific-imaging-award-2016-in-pictures
 ---
 
 My name is [**Julian Caicedo**](https://juliancaicedo.github.io/)... yeah, I know, "who the heck is this guy?", right?
