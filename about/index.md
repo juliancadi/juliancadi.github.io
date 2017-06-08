@@ -28,7 +28,7 @@ What I am **<u>NOT</u>**:
 I'm glad you ask.
 
 * **'16 - present:** &nbsp;&nbsp;&nbsp;iOS and Web Developer (<a href="https://www.biotronik.com" title="Biotronik SE & Co. KG" target="_blank">Biotronik</a>)
-* **'15 - present:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iOS and Web Developer (<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
+* **'15 - present:** &nbsp;&nbsp;&nbsp;iOS and Web Developer (<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
 * **'15 - '16:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iOS Developer (<a href="http://www.allcodellc.com/" title="ALL Code" target="_blank">ALLCode LLC</a>)
 * **'14 - '15:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile and Web Developer (<a href="https://www.ceiba.com.co/en/" title="Ceiba Software House" target="_blank">Ceiba Software House</a>)
 * **'13 - '14:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer (<a href="https://www.tcs.com/" title="Tata Consultancy Services" target="_blank">Tata Consultancy Services</a>)
