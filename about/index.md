@@ -5,16 +5,18 @@ excerpt: "What is code? Baby don't bug me..."
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
 
-My name is [**Julian Caicedo**](https://juliancaicedo.github.io/)... yeah, I know, "who the heck is this guy?", right?
+My name is **Julian Caicedo**.
+
+Yes... I know, "who is this guy?", right?
 
 Well, I'm:
 
-* Freelance **Mobile Developer** (*iOS and Android*)
-* Bachelor of **Computer Science** (*from the* <a href="http://www.udea.edu.co" title="Universidad de Antioquia" target="_blank">UdeA</a> *and the* <a href="https://www.informatik.kit.edu/" title="Karlsruhe Institut für Technologie" target="_blank">*KIT*</a>)
-* Enthusiastic about **weird programming languages**
-* '*Hello World*' Maker
+* **Mobile & Web** Developer
+* **Computer Science BSc** (<a href="http://www.udea.edu.co" title="Universidad de Antioquia" target="_blank">*UdeA*</a> *-* <a href="https://www.informatik.kit.edu/" title="Karlsruhe Institut für Technologie" target="_blank">*KIT*</a>)
+* Enthusiastic about **weird programming languages** and **physics**
+* **Trilingual** (*Native spanish, C1 certified german speaker, business-fluent english*)
 * **Colombian** living in Germany
-* **Trilingual** (*Native spanish, C1 certified german speaker, pretty decent english... well... I think so*)
+* <a href="https://www.padi.com/" title="Professional Association of Diving Instructors" target="_blank">PADI</a> Advanced Open Water Diver
 * Underwater Rugby Player (yep, it's a <a href="https://en.wikipedia.org/wiki/Underwater_rugby" title="Underwater Rugby" target="_blank">thing</a>)
 
 What I am **<u>NOT</u>**:
@@ -27,8 +29,7 @@ What I am **<u>NOT</u>**:
 
 I'm glad you ask.
 
-* **'16 - present:** &nbsp;&nbsp;&nbsp;iOS and Web Developer (<a href="https://www.biotronik.com" title="Biotronik SE & Co. KG" target="_blank">Biotronik</a>)
-* **'15 - present:** &nbsp;&nbsp;&nbsp;iOS and Web Developer (<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
-* **'15 - '16:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iOS Developer (<a href="http://www.allcodellc.com/" title="ALL Code" target="_blank">ALLCode LLC</a>)
-* **'14 - '15:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile and Web Developer (<a href="https://www.ceiba.com.co/en/" title="Ceiba Software House" target="_blank">Ceiba Software House</a>)
+* **'16 - present:** &nbsp;&nbsp;&nbsp;iOS & Web Developer (<a href="https://www.biotronik.com" title="Biotronik SE & Co. KG" target="_blank">Biotronik</a>)
+* **'15 - present:** &nbsp;&nbsp;&nbsp;iOS & Web External Consultant (<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
+* **'14 - '15:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile & Web Developer (<a href="https://www.ceiba.com.co/en/" title="Ceiba Software House" target="_blank">Ceiba Software House</a>)
 * **'13 - '14:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer (<a href="https://www.tcs.com/" title="Tata Consultancy Services" target="_blank">Tata Consultancy Services</a>)
