@@ -2,7 +2,7 @@
 layout: page
 title: juliancadi
 excerpt: "What is code? Baby don't bug me..."
-modified: 2018-03-05T16:53:38.564948-04:00
+search_omit: true
 ---
 
 My name is **Julian Caicedo**.
@@ -34,3 +34,10 @@ I'm glad you ask.
 * **'14 - '15:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile & Web Developer (<a href="https://www.ceiba.com.co/en/" title="Ceiba Software House" target="_blank">Ceiba Software House</a>)
 * **'13 - '14:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer (<a href="https://www.tcs.com/" title="Tata Consultancy Services" target="_blank">Tata Consultancy Services</a>)
 * **'12 - '12:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intern - Web & Tool Developer (<a href="http://www.bosch-engineering.de/" title="Bosch Engineering" target="_blank">Bosch Engineering</a>)
+
+
+<ul class="post-list">
+{% for post in site.posts limit:10 %}
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt | remove: '\[ ... \]' | remove: '\( ... \)' | markdownify | strip_html | strip_newlines | escape_once }}</span>{% endif %}</a></article></li>
+{% endfor %}
+</ul>
