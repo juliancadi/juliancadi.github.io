@@ -1,6 +1,5 @@
 ---
 layout: page
-title: juliancadi
 excerpt: "What is code? Baby don't bug me..."
 search_omit: true
 ---
