@@ -10,7 +10,7 @@ Yes... I know, *"who is this guy?"*, right?
 
 Well, I'm:
 
-* **Mobile & Web** Developer
+* **iOS** Developer
 * **Computer Science BSc** (<a href="http://www.udea.edu.co" title="Universidad de Antioquia" target="_blank">*UdeA*</a> *-* <a href="https://www.informatik.kit.edu/" title="Karlsruhe Institut für Technologie" target="_blank">*KIT*</a>)
 * Enthusiastic about **physics**
 * **Trilingual** (*Native spanish, C1 certified german speaker, business-fluent english*)
@@ -29,10 +29,20 @@ What I am **<u>NOT</u>**:
 I'm glad you ask.
 
 * **'16 - present:** &nbsp;&nbsp;&nbsp;iOS Developer (<a href="https://www.biotronik.com" title="Biotronik SE & Co. KG" target="_blank">Biotronik</a>)
-* **'15 - present:** &nbsp;&nbsp;&nbsp;iOS & External Consultant (<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
+* **'15 - present:** &nbsp;&nbsp;&nbsp;iOS Developer & External Consultant (<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
 * **'14 - '15:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile & Web Developer (<a href="https://www.ceiba.com.co/en/" title="Ceiba Software House" target="_blank">Ceiba Software House</a>)
 * **'13 - '14:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer (<a href="https://www.tcs.com/" title="Tata Consultancy Services" target="_blank">Tata Consultancy Services</a>)
 * **'12 - '12:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intern - Web & Tool Developer (<a href="http://www.bosch-engineering.de/" title="Bosch Engineering" target="_blank">Bosch Engineering</a>)
+
+## *'What about your superpowers?'*
+
+Let's see...
+
+* **Swift:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* **Objective-C:** &nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
+* **Java:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
+* **Android:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🗻🗻🗻🗻
+* **HTML/CSS/js:** &nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
 
 <ul class="post-list">
 {% for post in site.posts limit:10 %}
