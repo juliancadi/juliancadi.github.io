@@ -36,7 +36,10 @@ I'm glad you ask.
 
 I've also done some freelance work:
 
-<a href="http://poopyapp.invertebrado.co/" title="Poopy App (2018)" target="_blank">![poopyapp](images/poopy150.png)</a>&nbsp;&nbsp;[![arkboxp](images/arkboxp150.jpg "Arkbox Player (2016)")](https://itunes.apple.com/us/app/arkbox/id1225658412?mt=8)&nbsp;&nbsp;[![arkboxm](images/arkboxm150.jpg "Arkbox Messaging (2017)")](https://itunes.apple.com/us/app/arkbox-messaging/id1275899227?mt=8)&nbsp;&nbsp;[![homebase](images/homebase150.jpg "homebase")](https://itunes.apple.com/us/app/homebase-employee-scheduling/id871544379?mt=8)
+<a href="http://poopyapp.invertebrado.co/" title="Poopy App (2018)" target="_blank">![poopyapp](images/poopy150.png)</a>
+<a href="https://itunes.apple.com/us/app/arkbox/id1225658412?mt=8" title="Arkbox Player (2016)" target="_blank">![arkboxp](images/arkboxp150.jpg)</a>
+<a href="https://itunes.apple.com/us/app/arkbox-messaging/id1275899227?mt=8" title="Arkbox Messaging (2017)" target="_blank">![arkboxm](images/arkboxm150.jpg)</a>
+<a href="https://itunes.apple.com/us/app/homebase-employee-scheduling/id871544379?mt=8" title="homebase (2015)" target="_blank">![homebase](images/homebase150.jpg)</a>
 
 ## *'What about your superpowers?'*
 
