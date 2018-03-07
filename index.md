@@ -34,6 +34,11 @@ I'm glad you ask.
 * **'13 - '14:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer (<a href="https://www.tcs.com/" title="Tata Consultancy Services" target="_blank">Tata Consultancy Services</a>)
 * **'12 - '12:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intern - Web & Tool Developer (<a href="http://www.bosch-engineering.de/" title="Bosch Engineering" target="_blank">Bosch Engineering</a>)
 
+I've also done some freelance work:
+
+![poopyapp](images/poopy150.png "Poopy App")&nbsp;&nbsp;![homebase](images/homebase150.jpg "homebase")
+
+
 ## *'What about your superpowers?'*
 
 Let's see...
@@ -43,6 +48,8 @@ Let's see...
 * **Java:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
 * **Android:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🗻🗻🗻🗻
 * **HTML/CSS/js:** &nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
+
+If you want to know more about me or my work, please feel free to contact me on any of the social media sites shown up next.
 
 <ul class="post-list">
 {% for post in site.posts limit:10 %}
