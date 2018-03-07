@@ -36,8 +36,7 @@ I'm glad you ask.
 
 I've also done some freelance work:
 
-![poopyapp](images/poopy150.png "Poopy App")&nbsp;&nbsp;![homebase](images/homebase150.jpg "homebase")
-
+[![poopyapp](images/poopy150.png "Poopy App (2018)")](http://poopyapp.invertebrado.co/)&nbsp;&nbsp;[![arkboxp](images/arkboxp150.jpg "Arkbox Player (2016)")](https://itunes.apple.com/us/app/arkbox/id1225658412?mt=8)&nbsp;&nbsp;[![arkboxm](images/arkboxm150.jpg "Arkbox Messaging (2017)")](https://itunes.apple.com/us/app/arkbox-messaging/id1275899227?mt=8)&nbsp;&nbsp;[![homebase](images/homebase150.jpg "homebase")](https://itunes.apple.com/us/app/homebase-employee-scheduling/id871544379?mt=8)
 
 ## *'What about your superpowers?'*
 
