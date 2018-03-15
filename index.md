@@ -49,7 +49,7 @@ Let's see...
 * **Android:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🗻🗻🗻🗻
 * **HTML/CSS/js:** &nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
 
-So, if you want to know more about me or my work, please feel free to <a href="mailto:contact@juliancadi.com" title="Contact me! contact@juliancadi.com">*contact me*</a> on any of the social media sites shown up next.
+So, if you want to know more about me or my work, please feel free to <a href="mailto:me@juliancadi.com" title="Contact me@juliancadi.com!">*contact me*</a> on any of the social media sites shown up next.
 
 See you!
 
