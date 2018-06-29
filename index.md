@@ -10,20 +10,27 @@ Yes... I know, *"who is this guy?"*, right?
 
 Well, I'm:
 
-* **iOS** Developer
-* **Computer Science BSc** (<a href="http://www.udea.edu.co" title="Universidad de Antioquia" target="_blank">*UdeA*</a> *-* <a href="https://www.informatik.kit.edu/" title="Karlsruhe Institut für Technologie" target="_blank">*KIT*</a>)
-* Enthusiastic about **physics**
-* **Trilingual** (*Native spanish, C1 certified german speaker, business-fluent english*)
-* **Colombian** living in Germany
-* <a href="https://www.padi.com/" title="Professional Association of Diving Instructors" target="_blank">PADI</a> Advanced Open Water Diver
-* Underwater Rugby Player (yep, it's a <a href="https://en.wikipedia.org/wiki/Underwater_rugby" title="Underwater Rugby" target="_blank">thing</a>)
+&nbsp;&nbsp;&nbsp;🍏&nbsp; &nbsp;&nbsp;**iOS** Developer
+
+&nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;&nbsp;**Computer Science BSc** (<a href="http://www.udea.edu.co" title="Universidad de Antioquia" target="_blank">*UdeA*</a> *-* <a href="https://www.informatik.kit.edu/" title="Karlsruhe Institut für Technologie" target="_blank">*KIT*</a>)
+
+&nbsp;&nbsp;&nbsp;💬&nbsp;&nbsp;&nbsp;**Trilingual** (*Native spanish , C1 certified german speaker, business-fluent english*)
+
+&nbsp;&nbsp;&nbsp;🎵&nbsp;&nbsp;&nbsp;Music lover and concert junkie
+
+&nbsp;&nbsp;&nbsp;🌏&nbsp;&nbsp;&nbsp;**Colombian** permanently living in Germany
+
+&nbsp;&nbsp;&nbsp;🐠&nbsp;&nbsp;&nbsp;<a href="https://www.padi.com/" title="Professional Association of Diving Instructors" target="_blank">PADI</a> Advanced Open Water Diver
+
+&nbsp;&nbsp;&nbsp;🏊&nbsp;&nbsp;&nbsp;Underwater Rugby Player (yep, it's a <a href="https://en.wikipedia.org/wiki/Underwater_rugby" title="Underwater Rugby" target="_blank">thing</a>)
 
 What I am **<u>NOT</u>**:
 
-* The guy who will fix your printer
-* That boring IT dude
-* A radical human being
-* A bad person
+&nbsp;&nbsp;&nbsp;👻&nbsp;&nbsp;&nbsp;The guy who will fix your printer (I'd do it if I could though)
+
+&nbsp;&nbsp;&nbsp;😠&nbsp;&nbsp;&nbsp;A radical human being
+
+&nbsp;&nbsp;&nbsp;👿&nbsp;&nbsp;&nbsp;A bad person
 
 ## *'So, what have you done, anyway?'*
 
@@ -43,18 +50,33 @@ I've done some freelance work too:
 
 Let's see...
 
-**iOS**
-* **Swift:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
-* **Objective-C:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
+🍏&nbsp;&nbsp;&nbsp;**iOS**
 
-**Android**
-* **Java:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
-* **Kotlin:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🗻🗻🗻🗻🗻🗻
+* ***Swift*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
+* ***Objective-C*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
 
-**Web**
-* **Spring & JSP:** &nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
-* **HTML & CSS:** &nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
-* **Javascript:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
+🍬&nbsp;&nbsp;&nbsp;**Android**
+
+* ***Java*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* ***Kotlin*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🗻🗻🗻🗻🗻🗻
+
+🔗&nbsp;&nbsp;&nbsp;**Web**
+
+* ***Spring & JSP*:** &nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* ***Javascript*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* ***HTML & CSS*:** &nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
+
+🔃&nbsp;&nbsp;&nbsp;**CI**
+
+* ***fastlane*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* ***Jenkins*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* ***SonarQube*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
+
+🚀 &nbsp;&nbsp;&nbsp;**Agile**
+
+* ***Scrum*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
+* ***Kanban*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
+* ***DevOps*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
 
 So, if you want to know more about me or my work, please feel free to <a href="mailto:me@juliancadi.com" title="Contact me@juliancadi.com!">*contact me*</a> on any of the social media sites shown up next.
 
