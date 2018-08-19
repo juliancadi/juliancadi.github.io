@@ -1,4 +1,8 @@
-Hi! I'm **<a href="https://www.biotronik.com" title="juliancadi.com" target="_blank">Julian Caicedo</a>** ✋
+# [juliancadi.com][1]
+
+[1]: https://juliancadi.com"
+
+Hi! I'm **<a href="https://juliancadi.com" title="juliancadi.com" target="_blank">Julian Caicedo</a>** ✋
 
 &nbsp;&nbsp;&nbsp;🍏&nbsp; &nbsp;&nbsp;**Mobile developer** focusing on **native iOS** app development since 2014
 
