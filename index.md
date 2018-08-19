@@ -18,7 +18,7 @@ Hi! I'm **Julian Caicedo** ✋
 
 &nbsp;&nbsp;&nbsp;🐠&nbsp;&nbsp;&nbsp;<a href="https://www.padi.com/" title="Professional Association of Diving Instructors" target="_blank">PADI</a> Advanced Open Water **Diver**
 
-&nbsp;&nbsp;&nbsp;🏊&nbsp;&nbsp;&nbsp;Underwater Rugby Player (yep, it's a <a href="https://en.wikipedia.org/wiki/Underwater_rugby" title="Underwater Rugby" target="_blank">thing</a> 😉)
+&nbsp;&nbsp;&nbsp;🏊&nbsp;&nbsp;&nbsp;Underwater Rugby Player (it's a <a href="https://en.wikipedia.org/wiki/Underwater_rugby" title="Underwater Rugby" target="_blank">thing</a>! 😉)
 
 ## Work Experience
 
