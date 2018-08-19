@@ -1,6 +1,6 @@
 # [juliancadi.com][1]
 
-[1]: https://juliancadi.com"
+[1]: https://juliancadi.com
 
 Hi! I'm **<a href="https://juliancadi.com" title="juliancadi.com" target="_blank">Julian Caicedo</a>** ✋
 
