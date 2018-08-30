@@ -12,7 +12,7 @@ Hi! I'm **Julian Caicedo** ✋
 
 &nbsp;&nbsp;&nbsp;💬&nbsp;&nbsp;&nbsp;**Trilingual** (*Native spanish, business-fluent in both German and English*)
 
-&nbsp;&nbsp;&nbsp;🇨🇴&nbsp;&nbsp;&nbsp;**Colombian** based in **Germany** 🇩🇪
+&nbsp;&nbsp;&nbsp;🇨🇴&nbsp;&nbsp;&nbsp;**Colombian** based in **Berlin** 🇩🇪
 
 &nbsp;&nbsp;&nbsp;🎵&nbsp;&nbsp;&nbsp;**Music** lover and concert junkie
 
