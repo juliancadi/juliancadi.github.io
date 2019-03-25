@@ -22,12 +22,12 @@ Hi! I'm **Julian Caicedo** ✋
 
 ## Work Experience
 
-* **'19 - present:** &nbsp;&nbsp;&nbsp;&nbsp;iOS Developer(<a href="https://www.7mind.de/" title="7Mind GmbH" target="_blank">7Mind GmbH</a>)
-* **'15 - present:** &nbsp;&nbsp;&nbsp;&nbsp;Remote Lead Mobile Developer(<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
-* **'16 - '18:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iOS Developer(<a href="https://www.biotronik.com" title="Biotronik SE & Co. KG" target="_blank">Biotronik</a>)
-* **'14 - '15:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile & Web Developer (<a href="https://www.ceiba.com.co/en/" title="Ceiba Software House" target="_blank">Ceiba Software House</a>)
-* **'13 - '14:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer (<a href="https://www.tcs.com/" title="Tata Consultancy Services" target="_blank">Tata Consultancy Services</a>)
-* **'12 - '12:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intern - Web & Tool Developer (<a href="http://www.bosch-engineering.de/" title="Bosch Engineering" target="_blank">Bosch Engineering</a>)
+* **'19 - present:** &nbsp;&nbsp;&nbsp;&nbsp;iOS Developer&nbsp;(<a href="https://www.7mind.de/" title="7Mind GmbH" target="_blank">7Mind GmbH</a>)
+* **'15 - present:** &nbsp;&nbsp;&nbsp;&nbsp;Remote Lead Mobile Developer&nbsp;(<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
+* **'16 - '18:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iOS Developer&nbsp;(<a href="https://www.biotronik.com" title="Biotronik SE & Co. KG" target="_blank">Biotronik</a>)
+* **'14 - '15:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile & Web Developer&nbsp;(<a href="https://www.ceiba.com.co/en/" title="Ceiba Software House" target="_blank">Ceiba Software House</a>)
+* **'13 - '14:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer&nbsp;(<a href="https://www.tcs.com/" title="Tata Consultancy Services" target="_blank">Tata Consultancy Services</a>)
+* **'12 - '12:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intern - Web & Tool Developer&nbsp;(<a href="http://www.bosch-engineering.de/" title="Bosch Engineering" target="_blank">Bosch Engineering</a>)
 
 ## Freelance Projects
 
