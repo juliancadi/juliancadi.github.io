@@ -4,7 +4,7 @@
 
 Hi! I'm **<a href="https://juliancadi.com" title="juliancadi.com" target="_blank">Julian Caicedo</a>** ✋
 
-&nbsp;&nbsp;&nbsp;🍏&nbsp; &nbsp;&nbsp;**Mobile developer** focusing on **native iOS** app development since 2014
+&nbsp;&nbsp;&nbsp;🍏&nbsp; &nbsp;&nbsp;**Mobile developer** focusing on **native iOS** app development since 2015
 
 &nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;&nbsp;**Computer Science BSc** (<a href="http://www.udea.edu.co" title="Universidad de Antioquia" target="_blank">*UdeA*</a> *-* <a href="https://www.informatik.kit.edu/" title="Karlsruhe Institut für Technologie" target="_blank">*KIT*</a>)
 
@@ -36,29 +36,29 @@ Hi! I'm **<a href="https://juliancadi.com" title="juliancadi.com" target="_blank
 🍏&nbsp;&nbsp;&nbsp;**iOS**
 
 * ***Swift*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
-* ***Objective-C*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* ***Objective-C*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
 
 🤖&nbsp;&nbsp;&nbsp;**Android**
 
-* ***Java*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
-* ***Kotlin*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* ***Kotlin*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* ***Java*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
 
 🔗&nbsp;&nbsp;&nbsp;**Web**
 
-* ***Spring & JSP*:** &nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
-* ***Javascript*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* ***Spring & JSP*:** &nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
+* ***Javascript*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
 * ***HTML & CSS*:** &nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
 
 🔃&nbsp;&nbsp;&nbsp;**CI**
 
 * ***fastlane*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
-* ***Jenkins*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
-* ***SonarQube*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
+* ***Jenkins*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* ***SonarQube*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
 
 🚀 &nbsp;&nbsp;&nbsp;**Agile**
 
 * ***Scrum*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
-* ***Kanban*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
+* ***Kanban*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
 * ***DevOps*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
 
 If you want to know more about me or my work, please feel free to <a href="mailto:me@juliancadi.com" title="Contact me@juliancadi.com!">*contact me*</a>.

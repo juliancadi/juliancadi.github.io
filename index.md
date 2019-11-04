@@ -1,12 +1,12 @@
 ---
 layout: page
-excerpt: "iOS Software Engineer"
+excerpt: "iOS Developer"
 search_omit: true
 ---
 
 Hi! I'm **Julian Caicedo** ✋
 
-&nbsp;&nbsp;&nbsp;🍏&nbsp; &nbsp;&nbsp;**Mobile developer** focusing on **native iOS** app development since 2014
+&nbsp;&nbsp;&nbsp;🍏&nbsp; &nbsp;&nbsp;**Mobile developer** focusing on **native iOS** app development since 2015
 
 &nbsp;&nbsp;&nbsp;💻&nbsp;&nbsp;&nbsp;**Computer Science BSc** (<a href="http://www.udea.edu.co" title="Universidad de Antioquia" target="_blank">*UdeA*</a> *-* <a href="https://www.informatik.kit.edu/" title="Karlsruhe Institut für Technologie" target="_blank">*KIT*</a>)
 
@@ -22,8 +22,8 @@ Hi! I'm **Julian Caicedo** ✋
 
 ## Work Experience
 
-* **'19 - present:** &nbsp;&nbsp;&nbsp;&nbsp;iOS Developer&nbsp;(<a href="https://www.7mind.de/" title="7Mind GmbH" target="_blank">7Mind GmbH</a>)
-* **'15 - present:** &nbsp;&nbsp;&nbsp;&nbsp;Remote Lead Mobile Developer&nbsp;(<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
+* **'19 - present:** &nbsp;&nbsp;&nbsp;iOS Developer&nbsp;(<a href="https://www.7mind.de/" title="7Mind GmbH" target="_blank">7Mind GmbH</a>)
+* **'15 - present:** &nbsp;&nbsp;&nbsp;Remote Lead Mobile Developer&nbsp;(<a href="http://www.tekus.co/" title="Tekus S.A.S" target="_blank">Tekus</a>)
 * **'16 - '18:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iOS Developer&nbsp;(<a href="https://www.biotronik.com" title="Biotronik SE & Co. KG" target="_blank">Biotronik</a>)
 * **'14 - '15:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile & Web Developer&nbsp;(<a href="https://www.ceiba.com.co/en/" title="Ceiba Software House" target="_blank">Ceiba Software House</a>)
 * **'13 - '14:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Web Developer&nbsp;(<a href="https://www.tcs.com/" title="Tata Consultancy Services" target="_blank">Tata Consultancy Services</a>)
@@ -42,8 +42,8 @@ Hi! I'm **Julian Caicedo** ✋
 
 🤖&nbsp;&nbsp;&nbsp;**Android**
 
-* ***Java*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
 * ***Kotlin*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
+* ***Java*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
 
 🔗&nbsp;&nbsp;&nbsp;**Web**
 
