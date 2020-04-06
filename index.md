@@ -12,7 +12,7 @@ Hi! I'm **Julian Caicedo** ✋
 
 &nbsp;&nbsp;&nbsp;💬&nbsp;&nbsp;&nbsp;**Trilingual** (*Native spanish, business-fluent in both German and English*)
 
-&nbsp;&nbsp;&nbsp;🇨🇴&nbsp;&nbsp;&nbsp;**Colombian** based in **Berlin** 🇩🇪
+&nbsp;&nbsp;&nbsp;🇩🇪&nbsp;&nbsp;&nbsp;Based in **Berlin**
 
 &nbsp;&nbsp;&nbsp;🎵&nbsp;&nbsp;&nbsp;**Music** lover and concert junkie
 
@@ -32,36 +32,6 @@ Hi! I'm **Julian Caicedo** ✋
 ## Freelance Projects
 
 <a href="https://www.kuviq.com/" title="kuviq (2018)" target="_blank"><img src="images/kuviq150.png" width="100" height="100" style="margin: 2px" /></a><a href="https://itunes.apple.com/us/app/arkbox-messaging/id1275899227?mt=8" title="Arkbox Messaging (2017)" target="_blank"><img src="images/arkboxm150.jpg" width="100" height="100" style="margin: 2px" /></a><a href="https://itunes.apple.com/us/app/arkbox/id1225658412?mt=8" title="Arkbox Player (2016)" target="_blank"><img src="images/arkboxp150.jpg" width="100" height="100" style="margin: 2px" /></a><a href="https://itunes.apple.com/us/app/homebase-employee-scheduling/id871544379?mt=8" title="homebase (2015)" target="_blank"><img src="images/homebase150.jpg" width="100" height="100" style="margin: 2px" /></a>
-
-## Technical Skills
-
-🍏&nbsp;&nbsp;&nbsp;**iOS**
-
-* ***Swift*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
-* ***Objective-C*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
-
-🤖&nbsp;&nbsp;&nbsp;**Android**
-
-* ***Kotlin*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
-* ***Java*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
-
-🔗&nbsp;&nbsp;&nbsp;**Web**
-
-* ***Spring & JSP*:** &nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
-* ***Javascript*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
-* ***HTML & CSS*:** &nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
-
-🔃&nbsp;&nbsp;&nbsp;**CI**
-
-* ***fastlane*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
-* ***Jenkins*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🗻🗻
-* ***SonarQube*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
-
-🚀 &nbsp;&nbsp;&nbsp;**Agile**
-
-* ***Scrum*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
-* ***Kanban*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🌋🌋🗻
-* ***DevOps*:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌋🌋🌋🌋🌋🌋🌋🗻🗻🗻
 
 If you want to know more about me or my work, please feel free to <a href="mailto:me@juliancadi.com" title="Contact me@juliancadi.com!">*contact me*</a> on any of the social media sites shown up next.
 
