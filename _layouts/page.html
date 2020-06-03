@@ -9,15 +9,19 @@
 
 <body id="page">
 
-{% include navigation.html %}
+<div class="main-container">
 
-<div class="footer-wrapper">
-  <footer role="contentinfo" class="entry-wrapper">
-    {% include footer.html %}
-  </footer>
-</div><!-- /.footer-wrapper -->
+  {% include navigation.html %}
 
-{% include scripts.html %}
+  <div class="footer-wrapper">
+    <footer role="contentinfo" class="entry-wrapper">
+      {% include footer.html %}
+    </footer>
+  </div><!-- /.footer-wrapper -->
+
+  {% include scripts.html %}
+
+</div>
 
 </body>
 </html>
