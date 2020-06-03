@@ -1,11 +1,10 @@
 # Site wide configuration
 
 title: /juliancadi
+tab-title: Julian Caicedo - iOS Developer
 locale: en_US
 description: iOS Developer
 logo: site-logo.png
-resume-label: RÉSUMÉ
-resume: JulianCaicedo_resume.pdf
 search: true
 comments: true
 
@@ -43,19 +42,7 @@ owner:
   email: me@juliancadi.com
   disqus-shortname: jcaicedo
   twitter: juliancadi
-  facebook: #username
   github: juliancadi
   stackexchange: https://stackoverflow.com/users/5973853/juliancadi?tab=profile
   linkedin: juliancaicedo
   instagram: #juliancadi_
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
-  google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
