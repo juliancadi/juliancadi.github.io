@@ -1,9 +1,9 @@
 # Site wide configuration
 
 title: /juliancadi
-tab-title: Julian Caicedo - iOS Developer
+tab-title: Julian Caicedo - Mobile Engineer
 locale: en_US
-description: iOS Developer
+description: Mobile Engineer
 logo: site-logo.png
 search: true
 comments: true
@@ -45,4 +45,4 @@ owner:
   github: juliancadi
   stackexchange: https://stackoverflow.com/users/5973853/juliancadi?tab=profile
   linkedin: juliancaicedo
-  instagram: #juliancadi_
+  instagram: juliancadii
