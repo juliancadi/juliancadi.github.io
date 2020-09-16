@@ -1,5 +1,5 @@
 ---
 layout: page
-excerpt: "iOS Developer"
+excerpt: "Mobile Developer"
 search_omit: true
 ---
