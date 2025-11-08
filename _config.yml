@@ -1,9 +1,9 @@
 # Site wide configuration
 
 title: /juliancadi
-tab-title: Julian Caicedo - Mobile Engineer
+tab-title: Julian Caicedo
 locale: en_US
-description: Mobile Engineer
+description: Senior Software Engineer
 logo: site-logo.png
 search: true
 comments: true
