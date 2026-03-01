@@ -1,5 +1,5 @@
 ---
 layout: page
-excerpt: "Mobile Developer"
+excerpt: "Senior Software Engineer"
 search_omit: true
 ---
